@@ -97,7 +97,6 @@ body {
 	padding-top: 40px;
 	text-align: right;
 	margin-bottom: 40px;
-	margin-left:20px;
 	}
 
 #right ul, .right2 ul {
@@ -326,7 +325,7 @@ form input.button{
 
 #foot {
     background: #333;
-    height:198px;
+    height:35px;
     color:#333;
     clear:both;
 	width: 100%;
